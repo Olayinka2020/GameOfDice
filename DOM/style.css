@@ -1,0 +1,27 @@
+/* body{
+    background-color: blue;
+} */
+.none{
+    display: none;
+}
+.colors{
+    background-color: red;
+    color: white;
+}
+.red{
+    background-color: red;
+    color: white;
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+.btn{
+    background-color: red;
+    color: white;
+    border: none;
+    font-size: 1.2rem;
+}
+.blue{
+    background-color: blue;
+    color: white;
+    text-transform: capitalize;
+}
